@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi, I'm Ofentse Mathosa 👋
 
-<!--
-**Ofentse-Mathosa/Ofentse-Mathosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year Software Engineering student at Belgium Campus ITversity
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Interested in Cybersecurity
+
+📊 Interested in Data Science
+
+⚽ Football Coach at Little Kickers Midrand
+
+## Technical Skills
+
+- Java
+- C#
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Power BI
+- Git
+- GitHub
+
+## Projects
+
+- Product Inventory Management System
+- Gym Management Database
+- Portfolio Website
+- Power BI Dashboard
+
+## Currently Looking For
+
+Software Development Internship
+
+## Contact
+
+Email: omathosa@gmail.com
+
+LinkedIn
