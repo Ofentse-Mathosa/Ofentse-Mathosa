@@ -24,10 +24,9 @@ Hi, I'm Ofentse Mathosa 👋
 
 ## Projects
 
-- Product Inventory Management System
-- Gym Management Database
-- Portfolio Website
-- Power BI Dashboard
+- Student-Lift
+- Booking Website
+- Expense Tracker
 
 ## Currently Looking For
 
