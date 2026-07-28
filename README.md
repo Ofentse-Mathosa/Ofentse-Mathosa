@@ -36,4 +36,4 @@ Software Development Internship. I am also eager to build practical experience a
 
 Email: omathosa@gmail.com
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/ofentse-mathosa-770533425/?skipRedirect=true
